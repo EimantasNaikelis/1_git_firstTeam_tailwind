@@ -1,8 +1,9 @@
 .cardConatainer {
-  border: solid black 1px;
-  width: 15%;
+  border: solid black 3px;
+  width: 220px;
   height: auto;
   text-align: center;
+  padding: 20px;
 }
 .btnClass {
   margin-bottom: 30px;
