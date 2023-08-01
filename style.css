@@ -1,0 +1,21 @@
+.cardConatainer {
+  border: solid black 1px;
+  width: 15%;
+  height: auto;
+  text-align: center;
+}
+.btnClass {
+  margin-bottom: 30px;
+  background-color: black;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 35px;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.twitter {
+  margin-top: 15%;
+  width: 30%;
+  height: 30%;
+}
